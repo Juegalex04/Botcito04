@@ -1,4 +1,0 @@
-discord.py==2.3.2
-python-dotenv
-aiofiles
-sqlite3-binary
